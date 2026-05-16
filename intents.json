@@ -1,0 +1,48 @@
+{
+  "intents": [
+
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey"],
+      "responses": [
+        "Hello!",
+        "Hi there!",
+        "Hey!"
+      ]
+    },
+
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "Goodbye"],
+      "responses": [
+        "Goodbye!",
+        "See you later!",
+        "Take care!"
+      ]
+    },
+
+    {
+      "tag": "name",
+      "patterns": [
+        "Who are you?",
+        "What is your name?"
+      ],
+      "responses": [
+        "I am SunBot.",
+        "I am your AI chatbot."
+      ]
+    },
+
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you"
+      ],
+      "responses": [
+        "You're welcome!",
+        "Happy to help!"
+      ]
+    }
+  ]
+}
