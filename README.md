@@ -137,6 +137,19 @@ python app.py
 
 ---
 
+# Deliverables Checklist
+
+| Deliverable               | Status      |
+| ------------------------- | ----------- |
+| Intent dataset JSON       | ✅ Completed |
+| Train classifier          | ✅ Completed |
+| Retrieval-based responses | ✅ Completed |
+| Flask API server          | ✅ Completed |
+| NLP processing            | ✅ Completed |
+| Web interface             | ✅ Completed |
+| Demo video/GIF            | ✅ Completed |
+| GitHub repository         | ✅ Completed |
+
 # Demo Video
 
 https://drive.google.com/file/d/1MGobZiO3A4B3PirNgLf4POcnzLNW2HdJ/view?usp=sharing
